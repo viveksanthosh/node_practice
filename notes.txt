@@ -1,0 +1,26 @@
+Sites:
+http://developer.mozilla.org/
+
+Css:
+https://css-tricks.com/
+http://www.csszengarden.com/
+
+Js:
+http://www.crockford.com/
+
+
+Books:
+JavsScript, the definive guide
+JavsScript, the good parts
+
+
+C Selvaraju
+trainerselva@gmail.com
+8105789345
+
+
+http://docs.libuv.org/en/v1.x/
+
+
+
+First Argument of callback is an error, second omwards as date
