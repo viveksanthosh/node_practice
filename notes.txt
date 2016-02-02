@@ -10,8 +10,8 @@ http://www.crockford.com/
 
 
 Books:
-JavsScript, the definive guide
-JavsScript, the good parts
+JavaScript, the definite guide
+JavaScript, the good parts
 
 
 C Selvaraju
@@ -23,5 +23,21 @@ http://docs.libuv.org/en/v1.x/
 
 
 
-First Argument of callback is an error, second omwards as date.
+First Argument of callback is an error, second onwards as date.
+arguments is an array of arguments a function receives.
 
+Callback is request and reply
+Event id a publish and subscribe
+
+Important Concepts
+
+JavaScript Closures **
+This
+JavaScript protypal Inheritance
+Functional Programing
+Lexical scope
+JSON
+Methord Borrowing
+-bind
+-call
+-apply
