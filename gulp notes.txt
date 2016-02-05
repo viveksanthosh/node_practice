@@ -1,0 +1,15 @@
+Gulp tasks syntax
+
+gulp.task('name', function(){
+
+});
+
+
+For connect
+connect.server({
+  port : 1234,
+  devBaseUrl : 'http://localhost',
+  path : {
+    html : './src/*.html'
+  }
+})
